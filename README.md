@@ -3,6 +3,8 @@
 > **Final-Year Engineering College Project**  
 > An interactive algorithmic trading dashboard demonstrating sequential temporal state modeling via Long Short-Term Memory (LSTM) networks paired with a Deep Q-Network (DQN) reinforcement learning trading agent.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bkrsudeep/rl-trading-bot)
+
 ---
 
 ## 📌 1. Project Overview
